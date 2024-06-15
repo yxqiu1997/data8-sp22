@@ -1,0 +1,12 @@
+0,NameError,name 'math' is not defined,0,,2024-06-15 22:15:53.484482
+1,NameError,name 'math' is not defined,0,,2024-06-15 22:16:20.800451
+2,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 22:21:55.771459
+3,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 22:22:55.652653
+4,TypeError,'numpy.float64' object is not callable,0,,2024-06-15 22:34:46.709633
+7,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2024-06-15 22:46:19.372979
+8,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 22:47:12.941620
+9,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 22:47:59.140095
+10,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 22:57:23.813062
+11,FileNotFoundError,Test q5_5 does not exist,0,,2024-06-15 22:58:38.184502
+12,ValueError,"The column ""count sold"" is not in the table. The table contains these columns: box ID, fruit name, count",0,,2024-06-15 23:03:48.054870
+13,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 23:04:03.443407
