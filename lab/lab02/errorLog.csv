@@ -1,0 +1,10 @@
+0,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:35:22.834551
+1,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:36:59.407293
+2,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:37:12.704056
+3,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:37:18.740294
+4,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:38:30.567287
+5,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:38:52.587158
+6,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:41:10.756262
+7,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:41:23.573775
+8,ValueError,<datascience.predicates._combinable object at 0x30e4ce230> is not a label or index,0,,2024-06-15 19:45:10.319957
+9,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-15 19:47:12.140132
