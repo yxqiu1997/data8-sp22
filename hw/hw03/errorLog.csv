@@ -1,0 +1,7 @@
+0,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-18 22:49:47.479089
+1,NameError,name 'grader' is not defined,0,,2024-06-18 22:49:51.400676
+2,NameError,name 'grader' is not defined,0,,2024-06-18 22:49:55.779345
+3,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-18 22:55:41.912914
+4,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-18 22:59:58.557946
+5,AttributeError,'Table' object has no attribute 'shape',0,,2024-06-18 23:08:38.327022
+6,ValueError,"The column ""Ride Time"" is not in the table. The table contains these columns: sourceid, dstid, hod, ride time",0,,2024-06-18 23:19:20.658852
